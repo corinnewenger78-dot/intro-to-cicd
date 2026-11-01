@@ -2,7 +2,7 @@ function sayHi(name) {
   return `Hello ${name}`
 }
 
-module.exports = sayHi
+module.exports = sayHiho
   
 /*
   This is a multi-line comment
