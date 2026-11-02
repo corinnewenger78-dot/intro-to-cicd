@@ -1,4 +1,4 @@
-function sayHi(name) {
+function sayHiho(name) {
   return `Hello ${name}`
 }
 
